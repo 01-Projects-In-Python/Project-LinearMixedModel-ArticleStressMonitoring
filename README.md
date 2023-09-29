@@ -1,7 +1,7 @@
-Purpose:__<br>
+Purpose:<br>
 Explore the physiological signals dataset and replicating the work Iqbal et al (2022) but using only one data analysis matrix, which is the linear mixed model
 
-Objectives:__<br>
+Objectives:<br>
     
 1. Conduct an EDA analysis on the given dataset and identify missing values outliers.<br>
 2. Identify what linear mixed model that the study used.<br>
